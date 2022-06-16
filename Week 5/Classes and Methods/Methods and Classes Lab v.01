@@ -1,0 +1,20 @@
+class Elevator:
+    def __init__(self, bottom, top, current):
+        """Initializes the Elevator instance."""
+        self.bottom = bottom
+        self.top = top
+        self.current = current
+    def __str__(self):
+        """Defining special method to return object instead of RAM position"""
+        pass
+    def up(self):
+        """Makes the elevator go up one floor."""
+        self.current += 1
+    def down(self):
+        """Makes the elevator go down one floor."""
+        self.current -= 1
+    def go_to(self, floor):
+        """Makes the elevator go to the specific floor."""
+        self.current = floor
+
+elevator = Elevator(-1, 10, 0)
