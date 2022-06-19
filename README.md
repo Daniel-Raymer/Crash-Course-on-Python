@@ -1,5 +1,5 @@
 # Crash-Course-on-Python
-My work for the Google course hosted on Coursera
+1st Course for Google IT Automation
 
 Please direct yourself to the final project folder in week 6.
 This folder demonstates my understanding of Object Oriented Programming,
