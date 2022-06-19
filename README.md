@@ -1,5 +1,5 @@
 # Crash-Course-on-Python
-1st Course for Google IT Automation
+The work I produced for the 1st Course in the Google IT Automation series
 
 Please direct yourself to the final project folder in week 6.
 This folder demonstates my understanding of Object Oriented Programming,
